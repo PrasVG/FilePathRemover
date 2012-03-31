@@ -1,0 +1,5 @@
+A simple shell script to remove file paths from each line in a file.
+
+Useful if you are looking forward to just obtaining the list of filenames after executing a locate or find command for a specific file type in the terminal.
+
+There are several ways to extend this, for example you can add a sort line to sort the output, format the output, etcetera. 
